@@ -72,3 +72,11 @@ section {
     margin-right: 50px;
     border-radius: 20%;
 }
+
+.eat-fresh {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 8%;
+}
