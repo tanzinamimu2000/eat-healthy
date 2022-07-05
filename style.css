@@ -41,3 +41,34 @@ section {
     background-image: url(images/shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
 }
+
+.my-recipies {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.recipe-area {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px rgba(216, 112, 147, 0.678);
+    padding: 15px 20px;
+    border-radius: 30px;
+}
+
+.recipe-area img {
+    width: 100%;
+}
+
+.social-media {
+    width: 100%;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+.socialmedia-area {
+    box-shadow: 5px 5px 5px 5px gray;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20%;
+}
