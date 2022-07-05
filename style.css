@@ -12,6 +12,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -32,4 +33,11 @@ section {
     color: white;
     font-weight: 700;
     box-shadow: 10px 10px 10px rgba(128, 0, 128, 0.527);
+    display: inline-block;
+    margin-top: 10%;
+}
+
+.about-me {
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
 }
